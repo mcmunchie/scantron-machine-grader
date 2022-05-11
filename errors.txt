@@ -1,0 +1,4 @@
+MX1291 is invalid: Last 4 digits must be unique.
+DD7102 is invalid: First 2 characters must be unique.
+ID was not found: ZT4231 Score: 32.50 Grade: C-
+WG7875 is invalid: Last 4 digits must be unique.
