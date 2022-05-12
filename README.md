@@ -52,8 +52,13 @@ Test data and student data is read, and the information from them are processed 
 2. **errors.txt**, records any errors during grading.
 
 ## Example Output
+> Grades file processed
 <img src=img\grades.png />
+
+> Error file processed
 <img src=img\errors.png />
+
+> Unit tests
 <img src=img\test-grader.png />
 
 ## Test Cases to Consider
